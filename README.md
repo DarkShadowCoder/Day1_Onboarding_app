@@ -79,7 +79,7 @@ Open ExpoGo in your mobile phone and scan QR code.
 ## <a name="links">🔗 Assets</a>
 <details>
   <summary><code> Interface ScreenShots</code></summary>
-  <img src="./docs/screen1.jpg" width="300px" height="650px"/>
+  <img src="./docs/screen1.jpg" width="300px" height="650px" style="border-radius: 25px" />
   <img src="./docs/screen2.jpg" width="300px" height="650px"/>
   <img src="./docs/screen3.jpg" width="300px" height="650px"/>
   <img src="./docs/screen4.jpg" width="300px" height="650px"/>
