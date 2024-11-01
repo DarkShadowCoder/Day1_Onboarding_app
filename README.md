@@ -37,9 +37,9 @@ Built with React Native, GreenLeaf is your personal plant companion, designed to
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Get Started**:  an essential component during onboarding and user engagement 
-👉 **React Navigation**: used for managing navigation in React Native applications
-👉 **Screens**:  play a crucial role in shaping the user experience. 
+👉 **Get Started**:  an essential component during onboarding and user engagement <br />
+👉 **React Navigation**: used for managing navigation in React Native applications<br />
+👉 **Screens**:  play a crucial role in shaping the user experience. <br />
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
