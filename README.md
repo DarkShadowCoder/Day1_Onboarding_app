@@ -2,8 +2,10 @@
   <br />
     <h1>Onboarding Screen for a plant selling and monitoring app</h1>
   <br />
-
+  <img src="./docs/landing.png" alt="Onbording Screen"  width="100%" height="480px"/>
+  <br />
   <div>
+    <br/>
     <img src="https://img.shields.io/badge/-REACT_NATIVE-black?style=for-the-badge&logoColor=white&logo=React&color=61DAFB" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=Expo&color=000020" alt="Expo" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=TypeScript&color=3178C6" alt="three.js" />
@@ -75,8 +77,14 @@ npx expo start --android
 Open ExpoGo in your mobile phone and scan QR code.
 
 ## <a name="links">🔗 Assets</a>
-<di
-Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
+<details>
+  <summary><code> Interface ScreenShots</code></summary>
+  <img src="./docs/screen1.jpg" width="300px" height="650px"/>
+  <img src="./docs/screen2.jpg" width="300px" height="650px"/>
+  <img src="./docs/screen3.jpg" width="300px" height="650px"/>
+  <img src="./docs/screen4.jpg" width="300px" height="650px"/>
+</details>
+This App is based on <a href="https://www.behance.net/isaiselvi">@IsaiselviP</a>'s design
 
 
  
